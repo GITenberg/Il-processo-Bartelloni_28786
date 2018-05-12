@@ -1,0 +1,29 @@
+_repo: Il-processo-Bartelloni_28786
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jarro
+    alias: Piccini, Giulio
+    birthdate: 1849
+    deathdate: 1915
+    gutenberg_agent_id: '8665'
+    url: http://www.gutenberg.org/2009/agents/8665
+    wikipedia: http://it.wikipedia.org/wiki/Giulio_Piccini
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2009-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28786'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- 19th century'
+title: Il processo Bartelloni
+url: http://www.gutenberg.org/ebooks/28786
